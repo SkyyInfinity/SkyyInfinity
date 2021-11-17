@@ -1,7 +1,7 @@
 # 👋 Hello World
 
 My name is Dylan, I'm a 25 year old.
-I'm a web developer studed in NFactory School (Rouen, France).
+I'm a web developer studed in Need For School (Rouen, France).
 
 ## 🎓 Experience
 
