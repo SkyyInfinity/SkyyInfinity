@@ -6,7 +6,7 @@ I'm a web developer studed in Need For School (Rouen, France).
 ## 🎓 Experience
 
 I am a full stack developer passionate about design and new technologies.
-Since my training, I have currently worked on four projects, available on my GitHub repositories.
+Since my training, I have currently worked on few projects, available on my GitHub repositories.
 You can also see my other projects done in my free time.
 
 ## ✉️ Contact
