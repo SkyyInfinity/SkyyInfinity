@@ -1,7 +1,7 @@
 # 👋 Hello World
 
 My name is Dylan, I'm a 27 years old.
-I'm a web developer studed in Need For School (Rouen, France).
+I'm a web developer working at Studio Seth company (Normandie, France).
 
 ## 🎓 Experience
 
@@ -14,5 +14,7 @@ You can also see my other projects done in my free time.
 To contact me you can: 
 - Send a email at [dylan.hautecoeur@gmail.com](mailto:dylan.hautecoeur@gmail.com).
 - Send a DM on Twitter [@SkyInfinity27](https://twitter.com/SkyInfinity27).
+- Follow me on NPM
+[skyyinfinity](https://www.npmjs.com/~skyyinfinity)
 
 You can also discover my Instagram account for daily picture at [skyyinfinity](https://www.instagram.com/skyyinfinity/).
